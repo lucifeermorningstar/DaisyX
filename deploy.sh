@@ -3,8 +3,8 @@ echo "
 *********** STARTING DEPLOY ***********
 
 DAISYX v2 -Base Aiogram
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+(C) 2020-2021 by @THEUNKNWONARMY_1
+Support Chat is @UnknownArmy_1.
 
 ***************************************
 "
@@ -37,8 +37,8 @@ DAISYX. Deployed Successfully
  ******************* v2.0 ** 
 
 Thanks for deploying DaisyX
-(C) 2020-2021 by @TEAMDAISYX
-Support Chat is @DAISYSUPPORT_OFFICIAL.
+(C) 2020-2021 by @THEUNKNOWNARMY_1
+Support Chat is @UnknownArmy_1.
 =++---------------------------------------------++=
                        Greetings from dev team :)
     "
