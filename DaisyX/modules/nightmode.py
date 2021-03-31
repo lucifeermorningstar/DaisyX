@@ -135,5 +135,5 @@ __help__ = """
 Close your group at 12.00 a.m. and open back at 6.00 a.m.(IST)
 
 <i> Only available for asian countries (India Standard time)</i>
-<u> Special credits to FridayUserbot</u>
+<u> Special credits to ScamRandUserbot</u>
 """
