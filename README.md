@@ -31,3 +31,8 @@ Enjoy Your Bot!!💝
 <b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
 <h1>#TEAMDAISYXDEVS</h1>
 </details>
+
+## Support
+   <a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/DaisyXSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   
