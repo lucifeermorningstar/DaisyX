@@ -24,6 +24,12 @@ Enjoy Your Bot!!💝
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX&template=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX)
 
+
+# Support
+<a href="https://t.me/DaisyXSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
 <details>
 <summary> special thanks </summary>
 <b>DEVIL (@lucifeermorningstar) Owner</b>
@@ -31,6 +37,8 @@ Enjoy Your Bot!!💝
 <b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
 <h1>#TEAMDAISYXDEVS</h1>
 </details>
+
+
 
 ## Support
    <a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
