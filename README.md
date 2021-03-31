@@ -33,6 +33,7 @@ Enjoy Your Bot!!💝
 <details>
 <summary> special thanks </summary>
 <b>DEVIL (@lucifeermorningstar) Owner</b>
+<b>Inuka (@InukaASiTH) Developer</b>
 <b>SHUBHAM (@theshubhamgundu) Promoter</b>
 <b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
 <h1>#TEAMDAISYXDEVS</h1>
