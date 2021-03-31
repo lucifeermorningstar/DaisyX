@@ -8,9 +8,9 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "repository": "https://github.com/TEAMDAISYXDEVS/DaisyX",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "t.me/TheUnknownArmy_1",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -58,7 +58,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/TEAMDAISYXDEVS/DaisyX",
       "required": false  
     },
     "API_PORT": {
@@ -91,12 +91,12 @@
     },
     "OPERATORS": {
       "description": "Space seperated list of sudoes",
-      "value": "",
+      "value": "1037581197",
       "required": true
     },
     "SUPPORT_CHAT": {
       "description": "support chat id",
-      "value": "",
+      "value": "UnknownArmy_1",
       "required": true
     },
     "LYDIA_API_KEY": {
