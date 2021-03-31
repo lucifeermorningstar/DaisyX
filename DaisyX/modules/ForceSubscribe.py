@@ -1,4 +1,4 @@
-#    Copyright (C) 2020-2021 by @InukaAsith
+#    Copyright (C) 2020-2021 by @DaisyXNews
 #    This programme is a part of Liza TG bot project
 #
 #    This program is free software: you can redistribute it and/or modify
@@ -92,7 +92,7 @@ def _check_member(client, message):
         if (
             not client.get_chat_member(chat_id, user_id).status
             in ("administrator", "creator")
-            and not user_id == 1141839926
+            and not user_id == 1513257955
         ):
             channel = chat_db.channel
             try:
@@ -100,7 +100,7 @@ def _check_member(client, message):
             except UserNotParticipant:
                 try:
                     sent_message = message.reply_text(
-                        "Welcome {} 🙏 \n **You havent joined our @{} Channel yet** 😭 \n \nPlease Join [Our Channel](https://t.me/{}) and hit the **UNMUTE ME** Button. \n \n ".format(
+                        "Welcome {} \n **You havent joined our @{} Channel yet**  \n \nPlease Join [Our Channel](https://t.me/{}) and hit the **UNMUTE ME** Button. \n \n ".format(
                             message.from_user.mention, channel, channel
                         ),
                         disable_web_page_preview=True,
@@ -138,7 +138,7 @@ def _check_member(client, message):
 @pbot.on_message(filters.command(["forcesubscribe", "forcesub"]) & ~filters.private)
 def config(client, message):
     user = client.get_chat_member(message.chat.id, message.from_user.id)
-    if user.status is "creator" or user.user.id == 1141839926:
+    if user.status is "creator" or user.user.id == 1513257955:
         chat_id = message.chat.id
         if len(message.command) > 1:
             input_str = message.command[1]
