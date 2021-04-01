@@ -8,7 +8,7 @@ redis
 aioredis # Redis memery storage fom aiogram
 pymongo
 motor
-sqlalchemy==1.3.23 # For old modules
+sqlalchemy==1.3.20 # For old modules
 dnspython # needed to connect to cloud MongoDB instances
 
 
@@ -55,7 +55,7 @@ html5lib
 tgCrypto>=1.2.2
 
 #Old DB Processes
-psycopg2
+psycopg2-binary==2.8.6
 
 #YTDL
 youtube_dl
